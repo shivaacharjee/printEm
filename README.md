@@ -1,7 +1,9 @@
 # printEm
 JavaScript printing plugin. Print any element and retain the styling.
-##Usage
-printEm({
+
+# Usage
+
+				printEm({
 
 				pElem: "element_id",
 				importCss: true,
